@@ -88,5 +88,3 @@ As respostas são agrupadas em cinco classes:
 
 Veja mais em:
 * https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
-
-Messages --- FALTA LER ESSE
